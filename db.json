@@ -1,18 +1,19 @@
-[{
-	"id": 1,
-	"autor": "Miguel González",
-	"titulo": "Cálculo",
-	"referencia": "REF678",
-	"prestado": false,
-	"tipo": 1,
-	"imagen": ""
+{
+	"recursos": [{
+		"id": 1,
+		"autor": "Miguel González",
+		"titulo": "Cálculo",
+		"referencia": "REF678",
+		"prestado": false,
+		"tipo": 1,
+		"imagen": ""
 
-}, {
-	"id": 1,
-	"autor": "Ana Jimenez",
-	"titulo": "Estadística",
-	"referencia": "REF679",
-	"prestado": true,
-	"tipo": 1,
-	"imagen": ""
-}]
+	}, {
+		"id": 1,
+		"autor": "Ana Jimenez",
+		"titulo": "Estadística",
+		"referencia": "REF679",
+		"prestado": true,
+		"tipo": 1,
+		"imagen": ""
+	}]

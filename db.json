@@ -9,12 +9,44 @@
 		"imagen": ""
 
 	}, {
-		"id": 1,
+		"id": 2,
 		"autor": "Ana Jimenez",
 		"titulo": "Estadística",
 		"referencia": "REF679",
 		"prestado": true,
 		"tipo": 1,
+		"imagen": ""
+	}, {
+		"id": 3,
+		"autor": "Carlos Andrade",
+		"titulo": "Literatura I",
+		"referencia": "REF329",
+		"prestado": false,
+		"tipo": 1,
+		"imagen": ""
+	}, {
+		"id": 4,
+		"autor": "Raul Perez",
+		"titulo": "Literatura II",
+		"referencia": "REF379",
+		"prestado": false,
+		"tipo": 1,
+		"imagen": ""
+	}, {
+		"id": 5,
+		"autor": "Jose Lahiguera",
+		"titulo": "Revista Informatica 2.0",
+		"referencia": "REF672",
+		"prestado": true,
+		"tipo": 2,
+		"imagen": ""
+	}, {
+		"id": 6,
+		"autor": "Sergio Dalma",
+		"titulo": "Discografía Sergio Dalma",
+		"referencia": "REF179",
+		"prestado": true,
+		"tipo": 3,
 		"imagen": ""
 	}]
 }

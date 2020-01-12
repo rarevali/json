@@ -48,5 +48,32 @@
 		"prestado": true,
 		"tipo": 3,
 		"imagen": ""
+	},
+		    {
+		"id": 7,
+		"autor": "Alejandro Sanz",
+		"titulo": "Discografía Alejandro Sanz",
+		"referencia": "REF179",
+		"prestado": true,
+		"tipo": 3,
+		"imagen": ""
+	},{
+		"id": 8,
+		"autor": "varios",
+		"titulo": "exitos de los 80",
+		"referencia": "REF179",
+		"prestado": true,
+		"tipo": 3,
+		"imagen": ""
+	},
+		    {
+		"id": 9,
+		"autor": "Miguel Manez",
+		"titulo": "Física cuántica",
+		"referencia": "REF678",
+		"prestado": false,
+		"tipo": 1,
+		"imagen": ""
+
 	}]
 }

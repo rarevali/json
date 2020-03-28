@@ -17,7 +17,6 @@
 { "type": "Feature", "properties": { "name": "092_AVDA. DE ARAGON, 4 - ESQ AVDA BLASCO IBAÑEZ", "number": "92", "address": "Blasco Ibañez - Aragón", "open": "T", "available": "0", "free": "17", "total": "20", "ticket": "T", "updated_at": "16\/03\/2020 19:29:36" }, "geometry": { "type": "Point", "coordinates": [ 727425.494, 4372922.905 ] } },
 { "type": "Feature", "properties": { "name": "93_AVADA_BLASCO_IBAÑEZ_DESP_C_POETA_DURAN_TORTAJAD", "number": "93", "address": "Blasco Ibañez - Poeta Durán Tortajada", "open": "T", "available": "0", "free": "8", "total": "38", "ticket": "T", "updated_at": "16\/03\/2020 19:29:36" }, "geometry": { "type": "Point", "coordinates": [ 728483.208, 4372556.514 ] } },
 { "type": "Feature", "properties": { "name": "216_AVDA_DEL_CID_ESQ_CALLE_BURGOS", "number": "216", "address": "Av. del Cid - Burgos", "open": "T", "available": "0", "free": "13", "total": "17", "ticket": "F", "updated_at": "16\/03\/2020 19:29:36" }, "geometry": { "type": "Point", "coordinates": [ 723705.426, 4372070.459 ] } },
-
 { "type": "Feature", "properties": { "name": "248_AVDA_TRES_CRUCES_JOSE_MARIA_MORTES_LERMA", "number": "248", "address": "Tres Cruces - Jose Maria Mortes Lerma", "open": "T", "available": "0", "free": "20", "total": "20", "ticket": "F", "updated_at": "16\/03\/2020 19:29:36" }, "geometry": { "type": "Point", "coordinates": [ 723251.749, 4371355.044 ] } }
 ]
 }
